@@ -1,0 +1,19 @@
+body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 15px;
+}
+
+.test-suggestion img {
+  height: 25px;
+  max-height: 25px !important;
+}
+
+.active-test-suggestion img {
+  height: 25px;
+  max-height: 25px !important;
+}
+
+.section-header h2 {
+  margin: 0;
+}
