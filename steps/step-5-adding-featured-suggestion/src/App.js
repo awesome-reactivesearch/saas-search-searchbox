@@ -20,7 +20,7 @@ function App() {
 				recordAnalytics: true,
 				userId: 'jon',
 			}}
-			themePreset='light'
+			themePreset={theme}
 		>
 			<SearchBox
 				title='SearchBox'
